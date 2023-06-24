@@ -1,0 +1,4 @@
+cbor2==5.4.2
+influxdb-client==1.36.1
+numpy==1.25.0
+requests==2.27.1
